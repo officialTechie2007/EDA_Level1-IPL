@@ -1,3 +1,5 @@
+##[open in collab](https://colab.research.google.com/github/officialTechie2007/EDA_Level1-IPL/blob/main/deliveries_eda.ipynb)
+
 # 📊 Exploratory Data Analysis (EDA) Projects
 
 A collection of beginner-friendly **Exploratory Data Analysis (EDA)** projects built using **Python, Pandas, Matplotlib, and Seaborn**. The objective of this repository is to understand real-world datasets, clean and preprocess data, discover meaningful insights, and visualize relationships between different features.
@@ -80,5 +82,10 @@ The notebooks follow a simple three-step workflow:
 
 ---
 
-⭐ If you found this repository helpful, consider giving it a **Star**.
+# Author
 
+Akinchan Nayek
+
+Exploring the foundations of Data Science, Machine Learning, and Statistical Analysis through practical Python implementations.
+
+---
